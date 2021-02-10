@@ -9,5 +9,7 @@
 - ⚡ Fun fact: I spend about 5hrs listening songs everyday .
 - 📫 Instagram handle : https://instagram.com/ronitchaurasia99
 
-<img align="left" alt="Ronit Chaurasia's Githun Stats" src = "https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&hide_border=false&theme=highcontrast">
+<img align="center" alt="Ronit Chaurasia's Githun Stats" src = "https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&hide_border=false&theme=midnight-purple">
+<hr>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Chaurasia&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=radical">
 
