@@ -15,4 +15,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Chaurasia&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=midnight-purple">
 <hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ronit-Chaurasia&repo=github-readme-stats&theme=midnight-purple">
+<img align="center" src="https://komarev.com/ghpvc/?username=Ronit-Chaurasia&color=blueviolet">
 
