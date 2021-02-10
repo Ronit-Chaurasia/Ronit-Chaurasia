@@ -1,4 +1,4 @@
-### Hello there, I am Ronit Chaurasia 👋
+## Hello there, I am Ronit Chaurasia 👋
 
 
 - 👯 I’m currently studying at NIT HAMIRPUR.
