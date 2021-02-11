@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on E-Commerce Website and My Portfolio Website.
 - 🌱 I’m currently learning Typescript, ReactNative and SEO.
 - 💬 Ask me about Web series and Frontend Development.
-<a href="https://auth.geeksforgeeks.org/user/evilsting/practice/"> Geeksforgeeks Profile</a>
-<a href="https://www.hackerrank.com/Evil_sting"> Hackerrank Profile</a>
+      <p>Visit my <a href="https://auth.geeksforgeeks.org/user/evilsting/practice/" >Geeksforgeeks Profile</a> and
+      <a href="https://www.hackerrank.com/Evil_sting"> Hackerrank Profile</a></p>
 - ⚡ Fun fact: I spend about 5hrs listening songs everyday .
 - 📫 Instagram handle : https://instagram.com/ronitchaurasia99
 <hr>
