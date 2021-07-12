@@ -17,5 +17,6 @@
 <hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ronit-Chaurasia&repo=github-readme-stats&theme=midnight-purple">
 <img align="center" src="https://komarev.com/ghpvc/?username=Ronit-Chaurasia&color=blueviolet">
-<img src="https://wakatime.com/share/@Ronit_Chaurasia/35ed3ac1-23bf-4c47-96c1-2c9c1286b339.svg">
+<img src="https://wakatime.com/share/@Ronit_Chaurasia/db4cb158-cf34-4792-a5c2-82a5716ebe94.svg">
+
 
