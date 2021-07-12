@@ -7,6 +7,7 @@
 - 💬 Ask me about Web series and Frontend Development.
 - ⚡ Fun fact: I spend about 5hrs listening songs everyday .
 - 📫 Instagram handle : https://instagram.com/ronitchaurasia99
+- <link rel="stylesheet" href="./styles.css">
     <p>Visit my <a href="https://auth.geeksforgeeks.org/user/evilsting/practice/" >Geeksforgeeks Profile</a>,  <a href="https://leetcode.com/Evil_Sting/" >Leetcode Profile</a> and 
       <a href="https://www.hackerrank.com/Evil_sting"> Hackerrank Profile</a></p>
 <hr>
