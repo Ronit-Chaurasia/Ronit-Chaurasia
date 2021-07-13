@@ -13,7 +13,7 @@
 <hr>
 
 <img align="center" alt="Ronit Chaurasia's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&hide_border=false&theme=midnight-purple" display="inline-block">
-<img src="https://wakatime.com/share/@Ronit_Chaurasia/e6a46ccc-6aac-4919-9e83-a009b0d27b68.svg" width="550px">
+<img src="https://wakatime.com/share/@Ronit_Chaurasia/76b9b9a3-e29d-49c5-9a34-67b60c18a021.svg" width="550px">
 <hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Chaurasia&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=midnight-purple">
 <hr>
