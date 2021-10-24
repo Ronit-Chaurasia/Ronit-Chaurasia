@@ -12,7 +12,7 @@
 - To know more about me, checkout my <a href="https://ronit-chaurasia.github.io/Ronit-chaurasia-portfolio/">Portfolio</a>
 - <p>Visit my <a href="https://auth.geeksforgeeks.org/user/evilsting/practice/">Geeksforgeeks</a>,  <a href="https://leetcode.com/Evil_Sting/">Leetcode </a> and 
       <a href="https://www.hackerrank.com/Evil_sting">Hackerrank Profile</a></p>
-<hr>
+<hr><br>
 <p align="center">
     <b>My Github Stats</b><br>
 <a href="https://github.com/anuraghazra/github-readme-stats" align-items="center" justify-content="center">
@@ -22,9 +22,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Chaurasia&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=midnight-purple" width="300px" align-items="center" justify-content="center">
 </p>
-
-<br>
-
 <hr>
 <p align="center" >
     <b>My Weekly Coding Graph</b>
