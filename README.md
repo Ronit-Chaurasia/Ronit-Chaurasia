@@ -15,7 +15,6 @@
 <hr>
 <p align="center">
     <b>My Github Stats</b><br>
-    <font size="1">your_text_here</font>
 <a href="https://github.com/anuraghazra/github-readme-stats" align-items="center" justify-content="center">
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&hide_border=false&theme=midnight-purple" width="600px" height="300px" display="block"/>
@@ -27,7 +26,7 @@
 <br>
 
 <hr>
-<p margin="20px" align="center">
+<p align="center" >
     <b>My Weekly Coding Graph</b>
     <br><br>
     <a href="https://github.com/anuraghazra/github-readme-stats" display="block">
@@ -36,7 +35,7 @@
 </p>
 
 <p align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=Ronit-Chaurasia&color=blueviolet">
+    <img align="center" src="https://komarev.com/ghpvc/?username=Ronit-Chaurasia&color=blueviolet" width="150px">
 </p>
 
 
