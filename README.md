@@ -13,14 +13,14 @@
 - <p>Visit my <a href="https://auth.geeksforgeeks.org/user/evilsting/practice/">Geeksforgeeks</a>,  <a href="https://leetcode.com/Evil_Sting/">Leetcode </a> and 
       <a href="https://www.hackerrank.com/Evil_sting">Hackerrank Profile</a></p>
 <hr><br>
-<p>
+<p align="center">
     <b>My Github Stats</b>
       <br><br>
-      <a href="https://github.com/anuraghazra/github-readme-stats" align="left">
-          <img src="https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&hide_border=false&theme=midnight-purple" width="400px"                align="left"/>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&hide_border=false&theme=midnight-purple" width="410px"/>
       </a>
 
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Chaurasia&exclude_repo=github-readme-                     stats,anuraghazra.github.io&theme=midnight-purple&layout=compact" width="370px" align-items="center" justify-content="center">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Chaurasia&exclude_repo=github-readme-                     stats,anuraghazra.github.io&theme=midnight-purple&layout=compact" width="380px" align-items="center" justify-content="center">
 </p>
 
 <hr>
