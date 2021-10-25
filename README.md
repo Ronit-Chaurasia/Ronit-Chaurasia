@@ -15,7 +15,7 @@
 <hr><br>
 <p align="center">
     <b>My Github Stats</b><br>
-<a href="https://github.com/anuraghazra/github-readme-stats" align-items="center" justify-content="center">
+<a href="https://github.com/anuraghazra/github-readme-stats" >
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&hide_border=false&theme=midnight-purple" width="490px" height="180px"/>
 </a>
