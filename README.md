@@ -13,26 +13,24 @@
 - <p>Visit my <a href="https://auth.geeksforgeeks.org/user/evilsting/practice/">Geeksforgeeks</a>,  <a href="https://leetcode.com/Evil_Sting/">Leetcode </a> and 
       <a href="https://www.hackerrank.com/Evil_sting">Hackerrank Profile</a></p>
 <hr><br>
+
+<h1 align="center">My GitHub Stats</h1><br>
 <p align="center">
-    <b>My Github Stats</b>
-      <br><br>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&hide_border=false&theme=midnight-purple" width="450px"/>
-      </a>
+<a href="https://github.com/anuraghazra/github-readme-stats" display="inline" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&hide_border=false&theme=midnight-purple" width="440px" display="inline"/>
+</a>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Chaurasia&exclude_repo=github-readme-                     stats,anuraghazra.github.io&theme=midnight-purple&layout=compact" width="375px" align-items="center" justify-content="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Chaurasia&exclude_repo=github-readme-                     stats,anuraghazra.github.io&theme=midnight-purple&layout=compact" width="400px"/>
 </p>
+<br><br>
 
-<hr>
-
-<p align="center" >
-    <b>My Weekly Coding Graph</b>
-    <br><br>
-    <a href="https://github.com/anuraghazra/github-readme-stats" display="block">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Ronit_Chaurasia" width="700px" display="block"/>
-    </a>
+<h1 align="center">My Weekly Coding Graph</h1>
+<br><br>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Ronit_Chaurasia" width="700px" />
+</a>
 </p>
-
 <p align="center">
     <img align="center" src="https://komarev.com/ghpvc/?username=Ronit-Chaurasia&color=blueviolet" width="150px">
 </p>
