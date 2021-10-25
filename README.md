@@ -17,10 +17,10 @@
     <b>My Github Stats</b><br>
 <a href="https://github.com/anuraghazra/github-readme-stats" align-items="center" justify-content="center">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&hide_border=false&theme=midnight-purple" width="500px" height="300px" display="block"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&hide_border=false&theme=midnight-purple" width="500px" height="200px" display="block"/>
 </a>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Chaurasia&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=midnight-purple" width="300px" align-items="center" justify-content="center">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Chaurasia&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=midnight-purple&layout=compact" width="420px" align-items="center" justify-content="center">
 </p>
 <hr>
 <p align="center" >
