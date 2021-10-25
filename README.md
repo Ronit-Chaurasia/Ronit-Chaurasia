@@ -17,7 +17,7 @@
     <b>My Github Stats</b>
       <br><br>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&hide_border=false&theme=midnight-purple" width="410px"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&hide_border=false&theme=midnight-purple" width="430px"/>
       </a>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Chaurasia&exclude_repo=github-readme-                     stats,anuraghazra.github.io&theme=midnight-purple&layout=compact" width="380px" align-items="center" justify-content="center">
