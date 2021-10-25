@@ -27,7 +27,7 @@
     <b>My Weekly Coding Graph</b>
     <br><br>
     <a href="https://github.com/anuraghazra/github-readme-stats" display="block">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Ronit_Chaurasia" width="900px" display="block"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Ronit_Chaurasia" width="700px" display="block"/>
     </a>
 </p>
 
