@@ -1,6 +1,6 @@
 ## Hello there, I am Ronit Chaurasia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img src="https://user-images.githubusercontent.com/71219159/138565763-45a07e89-78a2-4ee1-9403-50a638a4c464.gif" width="290px" align="right"/>
+<img src="https://user-images.githubusercontent.com/71219159/138565763-45a07e89-78a2-4ee1-9403-50a638a4c464.gif" width="270px" align="right"/>
 
 - 👯 I’m currently studying at NIT HAMIRPUR.
 - 🔭 I’m currently working on E-Commerce Website and My Portfolio Website.
