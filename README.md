@@ -10,8 +10,7 @@
 - 📫 Instagram handle : <a href="https://instagram.com/ronitchaurasia99"> Click Here</a>
 - Reach me through my <a href="mailto:rchaurasianith@gmail.com">Email</a>
 - To know more about me, checkout my <a href="https://ronit-chaurasia.github.io/Ronit-chaurasia-portfolio/">Portfolio</a>
-- <p>Visit my <a href="https://auth.geeksforgeeks.org/user/evilsting/practice/">Geeksforgeeks</a>,  <a href="https://leetcode.com/Evil_Sting/">Leetcode </a> and 
-      <a href="https://www.hackerrank.com/Evil_sting">Hackerrank Profile</a></p>
+
 <hr><br>
 
 <h1 align="center">My GitHub Stats</h1><br>
