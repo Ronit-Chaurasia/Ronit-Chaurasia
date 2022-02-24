@@ -4,10 +4,9 @@
 
 - 👯 I’m currently studying at NIT HAMIRPUR.
 - 🔭 I’m currently working on E-Commerce Website and My Portfolio Website.
-- 🌱 I’m currently learning Typescript, ReactNative and SEO.
+- 🌱 I’m currently learning Swift and ios development.
 - 💬 Ask me about Web series and Frontend Development.
 - ⚡ Fun fact: I spend about 5hrs listening songs everyday .
-- 📫 Instagram handle : <a href="https://instagram.com/ronitchaurasia99"> Click Here</a>
 - Reach me through my <a href="mailto:rchaurasianith@gmail.com">Email</a>
 - To know more about me, checkout my <a href="https://ronit-chaurasia.github.io/Ronit-chaurasia-portfolio/">Portfolio</a>
 
@@ -27,7 +26,7 @@
 <br><br>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Ronit_Chaurasia" width="700px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Ronit_Chaurasia&theme=vision-friendly-dark" width="700px" />
 </a>
 </p>
 <p align="center">
