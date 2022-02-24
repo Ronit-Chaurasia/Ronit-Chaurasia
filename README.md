@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I spend about 5hrs listening songs everyday .
 - Reach me through my <a href="mailto:rchaurasianith@gmail.com">Email</a>
 - To know more about me, checkout my <a href="https://ronit-chaurasia.github.io/Ronit-chaurasia-portfolio/">Portfolio</a>
-
+<br> <br>
 <hr><br>
 
 <h1 align="center">My GitHub Stats</h1><br>
