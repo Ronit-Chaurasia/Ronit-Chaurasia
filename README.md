@@ -14,7 +14,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&hide_border=false&theme=midnight-purple" width="600px" display="inline"/>
 </a>
 <br> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Chaurasia&exclude_repo=github-readme-                     stats,anuraghazra.github.io&theme=midnight-purple&layout=compact" width="530px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Chaurasia&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=midnight-purple&layout=compact" width="530px"/>
 </p>
 <br><br>
 
