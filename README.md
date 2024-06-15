@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/71219159/138565763-45a07e89-78a2-4ee1-9403-50a638a4c464.gif" width="270px" align="right"/>
 
-- 👯 I’m studied at NIT HAMIRPUR.
+- 👯 Studied at NIT HAMIRPUR.
 - 🌱 I’m currently working as iOS developer @Paytm.
 - Reach me through my <a href="mailto:rchaurasianith@gmail.com">Email</a>
 <br> <br>
