@@ -9,20 +9,15 @@
 <hr><br>
 
 <h1 align="center">My GitHub Stats</h1><br>
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" display="inline" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&hide_border=false&theme=midnight-purple" width="600px" display="inline"/>
+<a href="https://github.com/anuraghazra/github-readme-stats" display="inline" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&hide_border=false&theme=midnight-purple" width="490px" height="500px" align="left"/>
 </a>
-<br> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Chaurasia&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=midnight-purple&layout=compact" width="530px"/>
-</p>
-<br><br>
 
-<h1 align="center">My Weekly Coding Graph</h1>
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Chaurasia&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=midnight-purple&layout=compact" width="430px" align="right"/>
+
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Ronit_Chaurasia&theme=vision-friendly-dark" width="700px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ronit_Chaurasia&theme=vision-friendly-dark" width="700px" />
 </a>
 </p>
 <p align="center">
