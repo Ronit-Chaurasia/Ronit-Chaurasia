@@ -10,11 +10,11 @@
 
 <h1 align="center">My GitHub Stats</h1><br>
 <a href="https://github.com/anuraghazra/github-readme-stats" display="inline" align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&hide_border=false&theme=midnight-purple" width="490px" height="500px" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&hide_border=false&theme=midnight-purple" width="400px" align="left"/>
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Chaurasia&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=midnight-purple&layout=compact" width="430px" align="right"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Chaurasia&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=midnight-purple&layout=compact" width="350px" align="right"/>
+<br> <br><br>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ronit_Chaurasia&theme=vision-friendly-dark" width="700px" />
