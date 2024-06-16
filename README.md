@@ -4,9 +4,10 @@
 
 - 👯 Studied at NIT HAMIRPUR.
 - 🌱 I’m currently working as iOS developer @Paytm.
+- 👯 Learning system design.
 - Reach me through my <a href="mailto:rchaurasianith@gmail.com">Email</a>
 <br> <br>
-<hr><br><br><br>
+<br><br><br>
 
 <h1 align="center">My GitHub Stats</h1><br>
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" width="420px" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Chaurasia&layout=compact&theme=buefy&hide_border=true" height="200px" width="370px"/></a> |
