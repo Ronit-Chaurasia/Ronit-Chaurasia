@@ -10,6 +10,14 @@
 
 <h1 align="center">My GitHub Stats</h1><br>
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ronit-Chaurasia&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" width="420px" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Chaurasia&layout=compact&theme=buefy&hide_border=true" height="200px" width="370px"/></a> |
+<hr><br><br>
 
-
-
+<h1 align="center">My weekly coding stats</h1><br>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ronit_Chaurasia&theme=vision-friendly-dark" width="700px" />
+</a>
+</p>
+<p align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=Ronit-Chaurasia&color=blueviolet" width="150px">
+</p>
