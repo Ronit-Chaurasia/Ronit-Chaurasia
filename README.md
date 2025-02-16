@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/71219159/138565763-45a07e89-78a2-4ee1-9403-50a638a4c464.gif" width="240px" align="right"/>
 
 - 👯 Studied at NIT HAMIRPUR.
-- 🌱 I’m currently working as iOS developer @Paytm.
+- 🌱 I’m currently working as iOS developer @Hive.
 - 👯 Learning system design.
 - Reach me through my <a href="mailto:rchaurasianith@gmail.com">Email</a>
 <br> <br>
